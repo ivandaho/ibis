@@ -372,9 +372,6 @@ $(document).ready(function(){
         //////pianoPart.start();
         //console.log(sdf);
     });
-    $('#btn3').click(function(){
-        sdf
-    });
     document.getElementById('file-input')
       .addEventListener('change', readSingleFile, false);
     /*
